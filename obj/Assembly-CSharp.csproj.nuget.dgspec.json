@@ -1,0 +1,422 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CombatSurvival\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "E:\\CombatSurvival\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "E:\\CombatSurvival\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\CombatSurvival\\CFXR.WelcomeScreen.csproj": {
+                "projectPath": "E:\\CombatSurvival\\CFXR.WelcomeScreen.csproj"
+              },
+              "E:\\CombatSurvival\\CFXRDemo.csproj": {
+                "projectPath": "E:\\CombatSurvival\\CFXRDemo.csproj"
+              },
+              "E:\\CombatSurvival\\CFXREditor.csproj": {
+                "projectPath": "E:\\CombatSurvival\\CFXREditor.csproj"
+              },
+              "E:\\CombatSurvival\\CFXRRuntime.csproj": {
+                "projectPath": "E:\\CombatSurvival\\CFXRRuntime.csproj"
+              },
+              "E:\\CombatSurvival\\com.hoangbv.base-game.csproj": {
+                "projectPath": "E:\\CombatSurvival\\com.hoangbv.base-game.csproj"
+              },
+              "E:\\CombatSurvival\\KinoBloom.Runtime.csproj": {
+                "projectPath": "E:\\CombatSurvival\\KinoBloom.Runtime.csproj"
+              },
+              "E:\\CombatSurvival\\ToonyColorsPro.Demo.Editor.csproj": {
+                "projectPath": "E:\\CombatSurvival\\ToonyColorsPro.Demo.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\CFXR.WelcomeScreen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\CFXR.WelcomeScreen.csproj",
+        "projectName": "CFXR.WelcomeScreen",
+        "projectPath": "E:\\CombatSurvival\\CFXR.WelcomeScreen.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\CFXRDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\CFXRDemo.csproj",
+        "projectName": "CFXRDemo",
+        "projectPath": "E:\\CombatSurvival\\CFXRDemo.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\CombatSurvival\\CFXRRuntime.csproj": {
+                "projectPath": "E:\\CombatSurvival\\CFXRRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\CFXREditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\CFXREditor.csproj",
+        "projectName": "CFXREditor",
+        "projectPath": "E:\\CombatSurvival\\CFXREditor.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\CFXRRuntime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\CFXRRuntime.csproj",
+        "projectName": "CFXRRuntime",
+        "projectPath": "E:\\CombatSurvival\\CFXRRuntime.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\com.hoangbv.base-game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\com.hoangbv.base-game.csproj",
+        "projectName": "com.hoangbv.base-game",
+        "projectPath": "E:\\CombatSurvival\\com.hoangbv.base-game.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\KinoBloom.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\KinoBloom.Runtime.csproj",
+        "projectName": "KinoBloom.Runtime",
+        "projectPath": "E:\\CombatSurvival\\KinoBloom.Runtime.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CombatSurvival\\ToonyColorsPro.Demo.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CombatSurvival\\ToonyColorsPro.Demo.Editor.csproj",
+        "projectName": "ToonyColorsPro.Demo.Editor",
+        "projectPath": "E:\\CombatSurvival\\ToonyColorsPro.Demo.Editor.csproj",
+        "packagesPath": "C:\\Users\\FPT SHOP\\.nuget\\packages\\",
+        "outputPath": "E:\\CombatSurvival\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FPT SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\CombatSurvival\\KinoBloom.Runtime.csproj": {
+                "projectPath": "E:\\CombatSurvival\\KinoBloom.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
